@@ -2,8 +2,8 @@
 <strong>Machine Learning Project: Computer price prediction</strong><br>
 <strong><em>Proyecto de Machine Learning: Predicción del precio de ordenadores</em></strong>
 
-Linear Regression Model <br>
-<em>Modelo de regression lineal</em>
+Linear Regression Model: predicting the price of computers with the ram, size, memory type, cpu, screen type and gpu.<br>
+<em>Modelo de regression lineal: predicción del precio de ordenadores con el ram, tamaño, tipo de memoria, tipo de pantalla, cpu y gpu.</em>
 
 ![Computer](src/img/comput.jpeg?raw=true "Computer Setup") 
 
