@@ -7,7 +7,7 @@ Linear Regression Model: predicting the price of computers with the ram, size, m
 
 ![Computer](src/img/comput.jpeg?raw=true "Computer Setup") 
 
-<h2>Pre-requisites :black_nib: </h2>
+<h2>Pre-requisites :heavy_check_mark: </h2>
 
 ```
 pip install -r requirements.txt 
